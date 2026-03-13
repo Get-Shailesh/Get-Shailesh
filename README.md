@@ -1,161 +1,108 @@
-<h1 align="center">Hi 👋, I'm Shailesh Khosare</h1>
+<div align="center">
 
-<h3 align="center">Full Stack Developer | Java Developer | AI & Data Enthusiast</h3>
+# Hey, I'm Shailesh Khosare 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Developer;AI+%26+Data+Analytics+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Technologies" />
-</p>
+### Data Analyst · Python Developer · ML Enthusiast
 
----
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Project-AI_Analyst_SaaS-black?style=for-the-badge)](https://ai-analyst-saas-shailesh-khoares-projects.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shailesh-khosare)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Get-Shailesh)
 
-# 👨‍💻 About Me
-
-🚀 Passionate **Full Stack Developer** focused on building modern applications and solving real-world problems.
-
-- 🎓 Engineering Graduate  
-- 💻 Java + React Full Stack Developer  
-- 📊 Interested in **AI, Data Analytics, and Scalable Systems**
-- 🌱 Currently learning **System Design & AI Integration**
-- 🎯 Goal: Become a **Top Full Stack Engineer**
+</div>
 
 ---
 
-# 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,python" />
-</p>
-
-### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 🧰 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-</p>
+## 👨‍💻 About Me
+```python
+shailesh = {
+    "role":       "Data Analyst & Python Developer",
+    "focus":      ["Data Analysis", "Machine Learning", "Full Stack AI Apps"],
+    "currently":  "Building production-ready AI SaaS products",
+    "looking_for": "Opportunities in Data & AI",
+    "fun_fact":   "I turn raw CSV files into business insights 📊"
+}
+```
 
 ---
 
-# 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-### 📊 RetailPulse360 – AI Retail Analytics Dashboard
+**Languages & Data**
 
-A data analytics dashboard that helps businesses convert raw data into **business insights using interactive charts and metrics**.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**Tech Stack**
+**Web & Backend**
 
-HTML • CSS • JavaScript • Data Visualization
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-🔗 https://github.com/Get-Shailesh/RetailPulse360
+**Tools & Deployment**
 
----
-
-### 🏦 Banking Application
-
-A modern banking UI platform inspired by fintech products.
-
-**Features**
-
-- Secure UI
-- Transaction interface
-- Modern banking dashboard
-
----
-
-### 🤖 AI Data Analyst Platform (Upcoming)
-
-An AI-powered system where users upload datasets and get:
-
-- 📊 Automated analysis
-- 📈 Charts & dashboards
-- 🧠 AI insights
-- 🐍 Python scripts
-- 🗄 SQL queries
-
-Tech Stack: **React + Spring Boot + AI APIs**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
 ---
 
-# 📊 GitHub Statistics
+## 🚀 Featured Projects
 
-<p align="center">
+### 🤖 AI Business Data Analyst SaaS
+> A full-stack AI SaaS platform that analyses business datasets and generates insights, charts, SQL queries, Python scripts and executive reports.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Get-Shailesh&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Get-Shailesh&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Get-Shailesh&theme=tokyo-night" />
-</p>
+- 🔗 **Live:** [ai-analyst-saas-shailesh-khoares-projects.vercel.app](https://ai-analyst-saas-shailesh-khoares-projects.vercel.app)
+- 📁 **Code:** [github.com/Get-Shailesh/ai-analyst-saas](https://github.com/Get-Shailesh/ai-analyst-saas)
+- **Stack:** Next.js · FastAPI · PostgreSQL · Redis · Pandas · Celery
+- **Features:** File upload · AI chat · Auto charts · SQL generator · PDF reports
 
 ---
 
-# 🐍 Contribution Snake
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Get-Shailesh/Get-Shailesh/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
 
----
+![Shailesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Get-Shailesh&show_icons=true&theme=tokyonight&hide_border=true)
 
-# 🌍 Connect With Me
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Get-Shailesh&layout=compact&theme=tokyonight&hide_border=true)
 
-<p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Get-Shailesh&theme=tokyonight&hide_border=true)
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-</a>
-
-<a href="https://your-portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github" />
-</a>
-
-</p>
+</div>
 
 ---
 
-# ⚡ Fun Facts
+## 📈 What I'm Currently Working On
 
-💡 I enjoy building **AI-powered tools and dashboards**
-
-📊 Passionate about **data analytics and business intelligence**
-
-🚀 Always learning new technologies to become a **better developer**
+- 🔭 Building AI-powered data tools for businesses
+- 🌱 Learning advanced Machine Learning and Deep Learning
+- 💡 Exploring LLM integrations in data analytics
+- 🎯 Looking for Data Analyst / Python Developer roles
 
 ---
 
-<p align="center">
+## 🤝 Let's Connect
 
-⭐ If you like my projects, consider **starring the repositories**
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Get-Shailesh&color=blue">
+If you're working on something interesting in **Data, AI or Python** — let's talk!
 
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shailesh_Khosare-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shailesh-khosare)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:shaileskhosare88@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Get-Shailesh&color=blueviolet&style=flat-square)
+
+⭐ **If you find my projects useful, please give them a star!** ⭐
+
+</div>
